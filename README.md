@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @mahadkamran3
-- 👀 I’m interested in Software Development and Software Architecture
-- 🌱 I’m currently learning software architecture building
-- 💞️ I’m looking to collaborate within teams
-- 📫 How to reach me, through my github and linkedIn (www.linkedin.com/in/mahadkamran003)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Well I want people to explore the fun about me
+# 👋 Hi, I’m Mahad Kamran  
 
-<!---
-mahadkamran3/mahadkamran3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Software Developer | Aspiring Software Architect**  
+
+- 👀 Interested in **Software Development** and **Software Architecture**  
+- 🌱 Currently learning and practicing **scalable system design & architecture principles**  
+- 💞️ Open to collaborating on **team-driven projects and innovative solutions**  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mahadkamran003) or here on **GitHub**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I enjoy blending creativity with problem-solving to make work both fun and impactful  
+
+---
+
+🔹 *"Code is temporary, but architecture lasts."*  
